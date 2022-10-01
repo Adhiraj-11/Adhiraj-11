@@ -1,5 +1,5 @@
 # Hi there, I am Adhiraj 👋
-
+## A coding enthusiast in my second year of B.Tech 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LmgHHxtKgDsYrVsEOw/giphy.gif" width="200"/>
 </div>
