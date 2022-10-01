@@ -1,5 +1,5 @@
-<div id="header" align="center">
-  # Hi there, I am Adhiraj 👋
+## Hi there, I am Adhiraj 👋
+<div align="center">
 A second year coding enthusiast 
   </div>
 <div id="header" align="center">
