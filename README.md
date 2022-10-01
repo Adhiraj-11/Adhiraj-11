@@ -14,15 +14,3 @@
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram badge"/>
   </a>
 </div>
-
----
-
-### :woman_technologist: About Me :
-
-- :telescope: Coding Enthusiast
-
-- :seedling: 
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: @adhiraj.chauhan.2003@gmail.com
