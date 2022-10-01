@@ -1,5 +1,7 @@
-# Hi there, I am Adhiraj 👋
+<div id="header" align="center">
+  # Hi there, I am Adhiraj 👋
 A second year coding enthusiast 
+  </div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LmgHHxtKgDsYrVsEOw/giphy.gif" width="200"/>
 </div>
