@@ -10,7 +10,7 @@
   <a href="https://www.instagram.com/_.barusu/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Adhiraj-11&style=flat-square&color=blue" alt=""/>
 </div>
 
 
