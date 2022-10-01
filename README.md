@@ -15,4 +15,7 @@
   </a>
 </div>
 
+---
+
+### :woman_technologist: About Me :
 
