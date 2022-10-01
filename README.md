@@ -19,3 +19,10 @@
 
 ### :woman_technologist: About Me :
 
+- :telescope: Coding Enthusiast
+
+- :seedling: 
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: @adhiraj.chauhan.2003@gmail.com
