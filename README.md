@@ -3,7 +3,7 @@
    Hi there, I am Adhiraj 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
+Just a Coding and ML enthusiast
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LmgHHxtKgDsYrVsEOw/giphy.gif" width="200"/>
 </div>
