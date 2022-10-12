@@ -8,7 +8,7 @@ Just a Coding and ML enthusiast
   <img src="https://media.giphy.com/media/LmgHHxtKgDsYrVsEOw/giphy.gif" width="200"/>
 </div>
 
-[![@konran's Holopin board](https://holopin.io/api/user/board?user=konran)](https://holopin.io/@konran)
+
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/adhirajchauhan/">
@@ -18,3 +18,4 @@ Just a Coding and ML enthusiast
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram badge"/>
   </a>
 </div>
+
