@@ -20,7 +20,6 @@
 </div>
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adhiraj-11&theme=tokyonight)
 <br />
 ###### BADGES
 [![@konran's Holopin board](https://holopin.io/api/user/board?user=konran)](https://holopin.io/@konran)
