@@ -9,7 +9,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LmgHHxtKgDsYrVsEOw/giphy.gif" width="220"/>
 </div>
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/adhirajchauhan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -18,10 +17,8 @@
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram badge"/>
   </a>
 </div>
-<br />
 
 ###### BADGES
-
 [![@konran's Holopin board](https://holopin.io/api/user/board?user=konran)](https://holopin.io/@konran)
 
 
