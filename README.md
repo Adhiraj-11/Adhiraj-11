@@ -7,6 +7,7 @@ Just a Coding and ML enthusiast
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LmgHHxtKgDsYrVsEOw/giphy.gif" width="200"/>
 </div>
+[![@konran's Holopin board](https://holopin.me/konran)](https://holopin.io/@konran)
 <div id="badges">
   <a href="https://www.linkedin.com/in/adhirajchauhan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
