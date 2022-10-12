@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-#### Just a Coding and ML enthusiast
+### Just a Coding and ML enthusiast
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LmgHHxtKgDsYrVsEOw/giphy.gif" width="220"/>
@@ -18,7 +18,7 @@
   </a>
 </div>
 
-##### 🍀<a href="mailto:user@example.com">adhiraj.chauhan.2003@gmail.com</a>
+#### 🍀<a href="mailto:user@example.com">adhiraj.chauhan.2003@gmail.com</a>
 ###### BADGES
 [![@konran's Holopin board](https://holopin.io/api/user/board?user=konran)](https://holopin.io/@konran)
 
